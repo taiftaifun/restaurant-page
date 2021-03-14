@@ -1,0 +1,1 @@
+(()=>{"use strict";!function(){const t=document.querySelector("#content");let e=document.createElement("div");e.textContent="dupiszon",t.appendChild(e);let n=document.createElement("img");n.setAttribute("src","https://warsawfoodie.pl/wp-content/uploads/2020/07/spaccanapoli_2.png"),t.appendChild(n)}()})();
