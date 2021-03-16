@@ -17,7 +17,7 @@ function home() {
     let title = document.createElement("h1");
     title.textContent = "Sorbillo";
     title.style.fontStyle = "italic";
-    title.style.fontSize = "5rem";
+    title.style.fontSize = "4rem";
     title.style.textAlign = "center";
 
     // create and style the image
